@@ -88,3 +88,4 @@ C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-tas
 C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\Core.sourcelink.json

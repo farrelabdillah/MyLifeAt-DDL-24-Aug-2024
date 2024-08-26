@@ -82,3 +82,4 @@ C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-tas
 C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\Persistence.pdb
 C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
 C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json

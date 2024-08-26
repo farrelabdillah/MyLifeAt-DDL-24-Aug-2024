@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\farre\\downloads\\odp it\\ddl bootcamp\\farrel_task5\\farrel_learnwebapi-task5\\persistence\\models\\refreshtokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\refreshtokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|c:\\users\\farre\\downloads\\odp it\\ddl bootcamp\\farrel_task5\\farrel_learnwebapi-task5\\persistence\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\farre\\downloads\\odp it\\ddl bootcamp\\farrel_task5\\farrel_learnwebapi-task5\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -102,11 +110,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshTokenModel.cs",
+              "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Persistence\\Models\\RefreshTokenModel.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\RefreshTokenModel.cs",
+              "ToolTip": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Persistence\\Models\\RefreshTokenModel.cs",
+              "RelativeToolTip": "Persistence\\Models\\RefreshTokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:57:01.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Persistence\\Models\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Persistence\\Models\\TokenResponse.cs",
+              "RelativeToolTip": "Persistence\\Models\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:56:24.978Z"
             },
             {
               "$type": "Document",
@@ -116,14 +149,14 @@
               "RelativeDocumentMoniker": "Application\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Application\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Application\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDoAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T05:31:30.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PersistenceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Persistence\\PersistenceRegistration.cs",
               "RelativeDocumentMoniker": "Persistence\\PersistenceRegistration.cs",
@@ -135,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CreateTableSpecificationCommand.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationCommand.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationCommand.cs",
@@ -147,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "GetTableSpecificationsResponse.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsResponse.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsResponse.cs",
@@ -159,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Application\\appsettings.json",
               "RelativeDocumentMoniker": "Application\\appsettings.json",
@@ -167,12 +200,11 @@
               "RelativeToolTip": "Application\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-22T03:51:42.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T03:51:42.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Application\\Program.cs",
               "RelativeDocumentMoniker": "Application\\Program.cs",
@@ -180,12 +212,11 @@
               "RelativeToolTip": "Application\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:51:43.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T03:51:43.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "GetTableSpecificationsQuery.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsQuery.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsQuery.cs",
@@ -197,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "GetTableSpecificationsHandler.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
@@ -209,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CreateTableSpecificationHandler.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationHandler.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationHandler.cs",
@@ -221,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DeleteTableSpecificationHandler.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Commands\\DeleteTableSpecification\\DeleteTableSpecificationHandler.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Commands\\DeleteTableSpecification\\DeleteTableSpecificationHandler.cs",
@@ -233,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "TableSpecificationRepository.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Persistence\\Repositories\\TableSpecificationRepository.cs",
               "RelativeDocumentMoniker": "Persistence\\Repositories\\TableSpecificationRepository.cs",
@@ -245,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "TableController.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Application\\Controllers\\TableController.cs",
               "RelativeDocumentMoniker": "Application\\Controllers\\TableController.cs",
@@ -257,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ITableSpecificationRepository.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Persistence\\Repositories\\ITableSpecificationRepository.cs",
               "RelativeDocumentMoniker": "Persistence\\Repositories\\ITableSpecificationRepository.cs",
@@ -269,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "DeleteTableSpecificationResponse.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Commands\\DeleteTableSpecification\\DeleteTableSpecificationResponse.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Commands\\DeleteTableSpecification\\DeleteTableSpecificationResponse.cs",
@@ -281,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "DeleteTableSpecificationCommand.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Commands\\DeleteTableSpecification\\DeleteTableSpecificationCommand.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Commands\\DeleteTableSpecification\\DeleteTableSpecificationCommand.cs",
@@ -293,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Persistence\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Persistence\\Repositories\\GenericRepository.cs",
@@ -305,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "UpdateTableSpecificationHandler.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationHandler.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationHandler.cs",
@@ -317,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Persistence\\Repositories\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Persistence\\Repositories\\IGenericRepository.cs",
@@ -329,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "UpdateTableSpecificationCommand.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationCommand.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationCommand.cs",
@@ -341,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "UpdateTableSpecificationResponse.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationResponse.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationResponse.cs",
@@ -353,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "CreateTableSpecificationResponse.cs",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationResponse.cs",
               "RelativeDocumentMoniker": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationResponse.cs",
@@ -365,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Persistence.csproj",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Persistence\\Persistence.csproj",
               "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
@@ -377,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Application",
               "DocumentMoniker": "C:\\Users\\farre\\Downloads\\ODP IT\\DDL Bootcamp\\Farrel_task5\\Farrel_LearnWebApi-task5\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",

@@ -467,3 +467,4 @@ C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-tas
 C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
 C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Application\obj\Debug\net8.0\Application.sourcelink.json
