@@ -1,0 +1,84 @@
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/bin/Debug/net8.0/Persistence.runtimeconfig.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/bin/Debug/net8.0/Persistence.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/bin/Debug/net8.0/Persistence.pdb
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/obj/Debug/net8.0/Persistence.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/obj/Debug/net8.0/Persistence.pdb
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/obj/Debug/net8.0/Persistence.genruntimeconfig.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Persistence/obj/Debug/net8.0/ref/Persistence.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Persistence\obj\Debug\net8.0\ref\Persistence.dll

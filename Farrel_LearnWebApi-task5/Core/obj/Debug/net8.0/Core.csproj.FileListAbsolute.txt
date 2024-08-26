@@ -1,0 +1,90 @@
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/bin/Debug/net8.0/Core.deps.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/bin/Debug/net8.0/Core.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/bin/Debug/net8.0/Core.pdb
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/bin/Debug/net8.0/Persistence.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/bin/Debug/net8.0/Persistence.pdb
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/obj/Debug/net8.0/Core.csproj.AssemblyReference.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/obj/Debug/net8.0/Core.csproj.CopyComplete
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/obj/Debug/net8.0/Core.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/obj/Debug/net8.0/refint/Core.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/obj/Debug/net8.0/Core.pdb
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/Core/obj/Debug/net8.0/ref/Core.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\bin\Debug\net8.0\Core.deps.json
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\bin\Debug\net8.0\Core.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\bin\Debug\net8.0\Core.pdb
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\bin\Debug\net8.0\Persistence.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\bin\Debug\net8.0\Persistence.pdb
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.Up2Date
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\obj\Debug\net8.0\Core.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\obj\Debug\net8.0\refint\Core.dll
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\obj\Debug\net8.0\Core.pdb
+D:\course\Training\LearnWebApi\LearnWebApi\LearnWebApi\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\bin\Debug\net8.0\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\bin\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\bin\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.Up2Date
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\obj\Debug\net8.0\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\LearnWebApi\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\bin\Debug\net8.0\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\bin\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\bin\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.Up2Date
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\obj\Debug\net8.0\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task3\dummy\LearnWebApi\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\bin\Debug\net8.0\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\bin\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\bin\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\obj\Debug\net8.0\Core.csproj.Up2Date
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\obj\Debug\net8.0\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task4\Farrel_LearnWebApi\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\bin\Debug\net8.0\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\bin\Debug\net8.0\Persistence.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\bin\Debug\net8.0\Persistence.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\Core.csproj.Up2Date
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\farre\Downloads\ODP IT\DDL Bootcamp\Farrel_task5\Farrel_LearnWebApi-task5\Core\obj\Debug\net8.0\ref\Core.dll

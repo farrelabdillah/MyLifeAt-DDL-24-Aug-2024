@@ -1,0 +1,14 @@
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/bin/Debug/net8.0/DataAccess.deps.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/bin/Debug/net8.0/DataAccess.runtimeconfig.json
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/bin/Debug/net8.0/DataAccess.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/bin/Debug/net8.0/DataAccess.pdb
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/obj/Debug/net8.0/DataAccess.csproj.AssemblyReference.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/obj/Debug/net8.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfoInputs.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfo.cs
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/obj/Debug/net8.0/DataAccess.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/obj/Debug/net8.0/refint/DataAccess.dll
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/obj/Debug/net8.0/DataAccess.pdb
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/obj/Debug/net8.0/DataAccess.genruntimeconfig.cache
+/Users/macbook/Documents/LearnWebApi/LearnWebApi/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll
